@@ -3,9 +3,7 @@ nench.sh ("new bench.sh")
 
 Current version always available at https://github.com/n-st/nench
 
-~~IPv4- and v6-enabled download at http://wget.racing/nench.sh~~
-
-IPv4- and v6-enabled download at https://wget.pgdn.eu/nench.sh
+IPv4- and v6-enabled download at http://wget.racing/nench.sh
 
 - loosely based on the established freevps.us/bench.sh
 - includes CPU and ioping measurements
